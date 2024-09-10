@@ -4,7 +4,7 @@ This web application allows users to generate and validate U.S. driver's license
 
 ## Features
 
-- **Generate U.S. Driver's License Numbers**: Based on user input and selected state.
+- **Generate U.S. Driver'login License Numbers**: Based on user input and selected state.
 - **Validate License Numbers**: Ensures the generated license number conforms to state-specific formats.
 - **PDF417 Barcode Generation**: Encodes license data into a PDF417 barcode.
 - **Download Barcode**: Save the barcode as an SVG file.
